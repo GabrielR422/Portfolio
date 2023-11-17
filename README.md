@@ -1,6 +1,5 @@
 # Portfolio
 
-# SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
